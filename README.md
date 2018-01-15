@@ -1,1 +1,2 @@
 # IdeaMaker Profiles
+Here are my profiles for IdeaMaker slicer.  I don't have a lot of time behind them - this was just he intial configuration and testing with no fine tuning.  However they overall put out a decent print.
